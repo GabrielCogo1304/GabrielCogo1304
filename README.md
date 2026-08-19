@@ -5,7 +5,7 @@
 </div>
 
 #
-<p>Ola, me chamo Gabriel André! Atualmente estou cursando o Engenharia de Software (Bacharelado) Na PUC-Campinas Uso as linguagens Python e MySQL nos projetos.
+<p>Ola, me chamo Gabriel André! Atualmente estou cursando o Engenharia de Software (Bacharelado) Na PUC-Campinas. Aqui no GitHub, posto meus exercícios de lógica de programação, treinos, atividades e projetos. Uso as linguagens Python, C, HTML, CSS, MYSQL.
 </p>
 
 
